@@ -338,4 +338,4 @@ async def walk(ctx):
     embed.description = f"🏙️ Tu es arrivé(e) à {destination}."
     await message.edit(embed=embed)
 
-bot.run("MTM1Njc5NTQxNzg5NDk3NzY4Ng.GsPeu8.YX23WBzLcI0IWZA97UMyiuE-zApZf2YRf9oXYw")
+bot.run("MTM1Njc5NTQxNzg5NDk3NzY4Ng.GrQ-el.gWqpc9MNOiqFRXxZSXghvNXsawYG0AqlC4pRLU")
